@@ -10,8 +10,14 @@ Also I document my journey on some social networking sites
 
 Skills: REACT / JS / HTML / CSS
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAYUK09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://sayurikamble.hashnode.dev/introduction-to-functional-programming)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayuri-kamble/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s_a_y_u_k_codes//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/KambleSayuri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sayuk-portfolio.netlify.app/)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SAYUK09)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAYUK09&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SAYUK09)  
+
 
 
