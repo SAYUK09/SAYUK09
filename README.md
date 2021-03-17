@@ -12,6 +12,13 @@ Currently Working on my own CSS Component Library.
 - HTML
 - CSS
 
+#### Connect with me : 
+◻️ https://www.instagram.com/s_a_y_u_k_codes/
+◻️ https://twitter.com/KambleSayuri
+◻️ https://www.linkedin.com/in/sayuri-kamble/
+◻️ https://hashnode.com/@sayuk
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAYUK09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://sayurikamble.hashnode.dev/introduction-to-functional-programming)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayuri-kamble/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s_a_y_u_k_codes//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/KambleSayuri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sayuk-portfolio.netlify.app/)  
  
