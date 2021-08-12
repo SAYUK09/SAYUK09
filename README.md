@@ -14,7 +14,7 @@ Currently Working on my own CSS Component Library.
 
 #### Connect with me : 
 - ◻️ https://www.instagram.com/s_a_y_u_k_codes/
-- ◻️ https://twitter.com/KambleSayuri
+- ◻️ https://twitter.com/sayuri_kamble
 - ◻️ https://www.linkedin.com/in/sayuri-kamble/
 - ◻️ https://hashnode.com/@sayuk
 
