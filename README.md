@@ -1,5 +1,4 @@
 # Hi there 👋, Hey, I am Sayuri
-## An Aspiring Full Stack Developer
 
 ### Here are my recent followers
 ![An Aspiring Full Stack Developer](https://cool-cover.up.railway.app/cover.png?username=SAYUK09&text=Hola,+I%27m+Sayuri&pattern=p4&fontSize=5rem)
