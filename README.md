@@ -1,10 +1,11 @@
-# Hi there 👋, Hey, I am Sayuri
+# Hey there 👋, Sayuri here.
 
-### Here are my recent followers
 ![An Aspiring Full Stack Developer](https://cool-cover.up.railway.app/cover.png?username=SAYUK09&text=Hola,+I%27m+Sayuri&pattern=p4&fontSize=5rem)
 
 
-### Hi, I am Sayuri a young 18 years old girl on a journey to enchance as a Fullstack Web Developer. I primarly work with Javascript and React. I love communicating, making new connections & discussing about ideas, projects and startup. I write articles on @hashnode. Also I document my journey on some social networking sites
+### Hi, I am Sayuri a young 19 years old girl on a journey to enchance as a Fullstack Web Developer. 
+I primarly work with Javascript and React. I love communicating, making new connections & discussing about ideas, projects and startup. 
+I write articles on [Hashnode](https://sayurikamble.hashnode.dev/). I document my journey on [Twitter](https://twitter.com/sayuri_kamble).
 
 ### Skills :
 - NEXTJS
@@ -12,7 +13,7 @@
 - JAVASCRIPT
 
 
-#### Connect with me : 
+### Connect with me: 
 - [Twitter](https://twitter.com/sayuri_kamble)
 - [Linkedin](https://www.linkedin.com/in/sayuri-kamble/)
 - [Hashnode](https://sayurikamble.hashnode.dev/)
