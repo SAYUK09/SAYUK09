@@ -1,15 +1,17 @@
 # Hey there 👋, Sayuri here.
 
-![An Aspiring Full Stack Developer](https://cool-cover.up.railway.app/cover.png?username=SAYUK09&text=Hola,+I%27m+Sayuri&pattern=p4&fontSize=5rem)
+<img width=300 height=300 src="https://github.com/SAYUK09/SAYUK09/assets/68416000/ab08b984-fdb6-43ea-b9da-3e993819f444" />
 
 
-### Hi, I am Sayuri a young 19 years old girl on a journey to enchance as a Fullstack Web Developer. 
+
+### Hi, I am Sayuri a young 21 yrs old girl on a journey to enchance as a Fullstack Web Developer. 
 I primarly work with Javascript and React. I love communicating, making new connections & discussing about ideas, projects and startup. 
 I write articles on [Hashnode](https://sayurikamble.hashnode.dev/). I document my journey on [Twitter](https://twitter.com/sayuri_kamble).
 
 ### Skills :
 - NEXTJS
-- REACT 
+- REACT
+- TYPESCRIPT
 - JAVASCRIPT
 
 
