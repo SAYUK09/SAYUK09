@@ -21,7 +21,8 @@ I write articles on [Hashnode](https://sayurikamble.hashnode.dev/). I document m
 - [Hashnode](https://sayurikamble.hashnode.dev/)
 - [Instagram](https://www.instagram.com/s_a_y_u_k_codes/)
 
+[![An image of @sayuk09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayuk09)](https://holopin.io/@sayuk09)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SAYUK09)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAYUK09&show_icons=true)  
+// ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAYUK09&show_icons=true)  
