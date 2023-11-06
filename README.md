@@ -28,4 +28,4 @@ I write articles on [Hashnode](https://sayurikamble.hashnode.dev/). I document m
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SAYUK09)  
 
-// ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAYUK09&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAYUK09&show_icons=true)  
