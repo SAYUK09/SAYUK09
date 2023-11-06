@@ -1,5 +1,7 @@
 # Hey there 👋, Sayuri here.
 
+
+[![An image of @sayuk09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayuk09)](https://holopin.io/@sayuk09)
 <img width=300 height=300 src="https://github.com/SAYUK09/SAYUK09/assets/68416000/ab08b984-fdb6-43ea-b9da-3e993819f444" />
 
 
@@ -21,7 +23,7 @@ I write articles on [Hashnode](https://sayurikamble.hashnode.dev/). I document m
 - [Hashnode](https://sayurikamble.hashnode.dev/)
 - [Instagram](https://www.instagram.com/s_a_y_u_k_codes/)
 
-[![An image of @sayuk09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayuk09)](https://holopin.io/@sayuk09)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SAYUK09)  
 
